@@ -1,0 +1,5 @@
+integer: 123
+octal: 0123
+hexa: 0x123
+
+list: [1, 2, 3, 4]
